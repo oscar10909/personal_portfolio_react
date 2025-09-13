@@ -20,8 +20,7 @@ This is a personal portfolio to show the side projects that will creatre in the 
 2. [Tech Stack](#-tech-stack)
 3. [Features](#-features)
 4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
+5. [Deployment](#-deployment)
 
 ---
 
@@ -88,12 +87,6 @@ npm run dev
 ```
 
 Your app will be available at: [http://localhost:5173](http://localhost:5173)
-
----
-
-## 🖼️ Screenshots
-
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
 
 ---
 
